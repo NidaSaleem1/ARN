@@ -1,4 +1,4 @@
-﻿Support,Amine 1 or Additive 1,"1°, 2°, 3° Amine Ratio",MW or Mn (g/mol),Organic Content on Adsorbent Basis (%),N Content on Adsorbent Basis (mmol/g),Amine 2 or Additve 2,Addtive 3,Amine 2 or Additive 2  to Amine 1 Ratio,Additive 3 to Amine 1 Ratio,OH to N ratio,BET Surface Area of Solid Support (m2g-1),Pore Volume of Solid Support (cm3g-1),Average Pore Diameters (nm),Relative Humidity (%),CO2 Concentration (vol%),Flow Rate (mL/min),Adsorption Time (min),Adsorption Temperature (℃),CO2 Capacity (mmol/g),Amine Efficiency (mmol/mmol)
+﻿Support,Amine 1 or Additive 1,"1°, 2°, 3° Amine Ratio",MW or Mn (g/mol),Organic Content on Adsorbent Basis (%),N Content on Adsorbent Basis (mmol/g),Amine 2 or Additive 2,Additive 3,Amine 2 or Additive 2  to Amine 1 Ratio,Additive 3 to Amine 1 Ratio,OH to N ratio,BET Surface Area of Solid Support (m2g-1),Pore Volume of Solid Support (cm3g-1),Average Pore Diameters (nm),Relative Humidity (%),CO2 Concentration (vol%),Flow Rate (mL/min),Adsorption Time (min),Adsorption Temperature (℃),CO2 Capacity (mmol/g),Amine Efficiency (mmol/mmol)
 SBA-15,BPEI,1.81:1.52:1,600,25,5.83,0,0,0,0,0,643,1.14,7.12,0,0.04,100,350,25,0.72,0.12
 SBA-15,BPEI,1.81:1.52:1,600,25,5.83,0,0,0,0,0,643,1.14,7.12,0,0.04,100,350,25,0.72,0.12
 SBA-15,BPEI,1.81:1.52:1,600,50,11.67,0,0,0,0,0,643,1.14,7.12,0,0.04,100,350,-5,1.15,0.1
@@ -1335,3 +1335,4 @@ MPC,BPEI,1.81:1.52:1,305,32.5,7.84,0,0,0,0,0,1952,1.8,3.79,0,15,50,60,70,0.62,0.
 MPC,BPEI,1.81:1.52:1,305,40.8,9.85,0,0,0,0,0,1952,1.8,3.79,0,15,50,60,30,1.41,0.14
 MPC,BPEI,1.81:1.52:1,305,40.8,9.85,0,0,0,0,0,1952,1.8,3.79,0,15,50,60,50,1.58,0.15
 MPC,BPEI,1.81:1.52:1,305,40.8,9.85,0,0,0,0,0,1952,1.8,3.79,0,15,50,60,70,1.1,0.11
+
