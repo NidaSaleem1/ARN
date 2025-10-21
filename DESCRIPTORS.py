@@ -16,7 +16,6 @@ Textural_Properties_of_Solid_Supports=[
     "BET Surface Area of Solid Support (m2g-1)",
 	"Pore Volume of Solid Support (cm3g-1)",
     "Average Pore Diameters (nm)",
-
 ]
 
 Operational_Parameters=[
@@ -25,9 +24,8 @@ Operational_Parameters=[
     "Flow Rate (mL/min)",
     "Adsorption Time (min)",
     "Adsorption Temperature (℃)",
-    "Desorption Temperature (℃)",
-    "Cycle Number",
 ]
+
 
 
 
